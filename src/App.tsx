@@ -86,6 +86,7 @@ function generateMockData(count: number): Employee[] {
     "Product",
   ];
 
+  // @ts-expect-error foo
   return Array.from({ length: count }, () => ({
     id: faker.string.uuid(),
     fullName: faker.person.fullName(),
