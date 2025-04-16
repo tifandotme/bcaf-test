@@ -11,19 +11,14 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.1",
-    "@faker-js/faker": "^9.4.0",
-    "ag-grid-community": "latest",
-    "ag-grid-enterprise": "latest",
-    "ag-charts-enterprise": "latest",
-    "ag-grid-react": "latest",
-    "ag-charts-react": "latest",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.473.0",
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.6.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "tesseract.js": "^6.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9",
